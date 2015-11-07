@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A8746EE4A7CBADB2A7A11F347031E63895A71368",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980" : 0,
+    "A8746EE4A7CBADB2A7A11F347031E63895A71368" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "9FDF62B5-ACF6-4A29-92D2-415841F8E4D4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980" : "..",
+    "A8746EE4A7CBADB2A7A11F347031E63895A71368" : "%E5%B0%9D%E8%AF%95%E7%80%91%E5%B8%83%E6%B5%81\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "尝试瀑布流",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "尝试瀑布流.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/wuzer\/-test.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A8746EE4A7CBADB2A7A11F347031E63895A71368"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:wuzer\/microBlog.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EB3EE0FFE12D30941EC3C7C5F74A5EC5E9AAC980"
+    }
+  ]
+}

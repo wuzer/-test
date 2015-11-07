@@ -133,7 +133,9 @@
 }
 
 - (nullable NSArray<__kindof UICollectionViewLayoutAttributes *> *)layoutAttributesForElementsInRect:(CGRect)rect {
+    NSArray *array = [super layoutAttributesForElementsInRect:rect];
     
+    NSLog(@"%@",array);
     // 返回计算好的属性数组
     return self.layoutAttributes;
 }
